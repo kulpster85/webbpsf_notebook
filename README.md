@@ -10,7 +10,7 @@ For more information on JWST Wavefront Sensing and Control: [Wavefront Sensing &
 
 Anaconda is the recommended Python distribution for this notebook. If you do not have it already, download Miniconda and install it (Python 3.7+ only). The instructions below assume you do not want webbpsf in your default Anaconda environment (base), but if you do want it, you can skip the part where you create a new conda environment.
 
-In a Bash shell, create a new conda environment for wss_tools using Python 3 and then switch to that environment (skip this if you want to use default base environment, but using base is not recommended):
+In a Bash shell, create a new conda environment for webbpsf using Python 3 and then switch to that environment (skip this if you want to use default base environment, but using base is not recommended):
 
 conda create -n wssenv python=3.8
 conda activate wssenv
